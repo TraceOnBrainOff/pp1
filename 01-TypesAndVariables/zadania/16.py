@@ -1,0 +1,5 @@
+#Zapisywanie zmiennych z shella i cd str.format()
+imie = input("Podaj imie: ")
+wiek = input("Podaj wiek: ")
+cm = input("Podaj wzrost: ")
+print(str.format("Mam na imię {} i mam {} lat, a mój wzrost to {} cm", imie, wiek, cm))
