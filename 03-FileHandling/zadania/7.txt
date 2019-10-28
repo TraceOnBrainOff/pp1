@@ -1,0 +1,1 @@
+o tym że program dalej wykonuje operacje na pliku i nie pozwala na jego usunięcie

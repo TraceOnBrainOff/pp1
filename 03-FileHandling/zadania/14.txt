@@ -1,0 +1,14 @@
+a) .
+b) Poland
+c) (Poland|Germany|France)
+d) [a-zA-Z]
+e) [A-Z]
+f) [0-9] LUB \d
+g) [^0-9]
+h) [ ]
+i) [aeiouyąęó]
+j) [0-9]{4}
+k) (\d\d(.|,)\d%|\d{1,3}%)
+l) \b[A-Za-z]+\b
+m) \b(N|n)[A-Za-z]+\b
+n) \b[A-Za-z]{3}\b
