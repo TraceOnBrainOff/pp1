@@ -1,0 +1,18 @@
+set1 = {1,2,3,4,5}
+set2 = set([2,4,6,8,10,12])
+
+print(set1)
+print(set2)
+print()
+print(len(set2))
+print()
+sumSet1 = sum(set1)
+sumSet2 = sum(set2)
+print(set1.union(set2))
+print(set1.difference(set2))
+print(set1.intersection(set2))
+print(6 in set1)
+print(6 in set2)
+set1.add(6)
+set1.add(7)
+set2.remove(12)
